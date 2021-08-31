@@ -4,4 +4,4 @@ Our experiments mainly consist of four parts, namely, the transformission of Twi
 
 Since the original Twitter data is too large to upload, interested scholars can contact this email：mikijjj@163.com
 
-If you have any questions you are interested in, please feel free to contact with as.
+If you have any questions you are interested in, please feel free to contact with us.
